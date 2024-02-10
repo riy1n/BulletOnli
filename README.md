@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=200&center=true&vCenter=true&width=1000&height=100&lines=Hello+World;nothing to say+but +Hii++guysss.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=200&center=true&vCenter=true&width=1000&height=100&lines=Hello+World;nothing+to+say+but +Hii++guysss.)](https://git.io/typing-svg)
 
 <!---
 Riy1n/Riy1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
